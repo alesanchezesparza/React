@@ -9,7 +9,7 @@ Prueba tecnica
 
 ## Instalación
 
-1. Clonar este repositorio.
+1. Clonar este repositorio.https://github.com/alesanchezesparza/React.git
 2. Ejecutar `npm install` en la raíz del proyecto.
 3. Ejecutar `npm start` para iniciar la aplicación.
 
