@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/alesanchezesparza/React/build/static/css/main.63ab3442.chunk.css",
+    "main.js": "/alesanchezesparza/React/build/static/js/main.723ae0af.chunk.js",
+    "main.js.map": "/alesanchezesparza/React/build/static/js/main.723ae0af.chunk.js.map",
+    "runtime-main.js": "/alesanchezesparza/React/build/static/js/runtime-main.d21d1216.js",
+    "runtime-main.js.map": "/alesanchezesparza/React/build/static/js/runtime-main.d21d1216.js.map",
+    "static/js/2.585e7f06.chunk.js": "/alesanchezesparza/React/build/static/js/2.585e7f06.chunk.js",
+    "static/js/2.585e7f06.chunk.js.map": "/alesanchezesparza/React/build/static/js/2.585e7f06.chunk.js.map",
+    "index.html": "/alesanchezesparza/React/build/index.html",
+    "static/css/main.63ab3442.chunk.css.map": "/alesanchezesparza/React/build/static/css/main.63ab3442.chunk.css.map",
+    "static/js/2.585e7f06.chunk.js.LICENSE.txt": "/alesanchezesparza/React/build/static/js/2.585e7f06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d21d1216.js",
+    "static/js/2.585e7f06.chunk.js",
+    "static/css/main.63ab3442.chunk.css",
+    "static/js/main.723ae0af.chunk.js"
+  ]
+}
